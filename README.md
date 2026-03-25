@@ -14,7 +14,7 @@ Dark red means higher flood risk.
 Light color means lower risk.
 Each grid represents a small area in Denpasar, so you can check if your kost is in a higher risk zone.
 
-This repo only includes February 2026 data.
+This repo only includes January-February 2026 data.
 The system is designed to update near real-time using Google Earth Engine.
 
 How to run:
