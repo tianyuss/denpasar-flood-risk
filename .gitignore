@@ -1,0 +1,11 @@
+venv/
+secrets/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+logs/
+*.log
+bronze/
+silver/
+models/
