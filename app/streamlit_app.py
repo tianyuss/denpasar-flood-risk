@@ -184,12 +184,6 @@ f"""
 
 Rainfall observations originate from the <b>NASA GPM IMERG satellite dataset</b> and are processed through a grid-based flood risk model.
 
-The most recent rainfall dataset currently available in the system was recorded at:
-
-<b>{latest_dataset_timestamp}</b>
-
-This timestamp represents the latest hourly record from the most recent dataset that contains rainfall observations.
-
 <br>
 
 <b>Current Data Snapshot</b><br>
